@@ -1,4 +1,4 @@
-# event_bus_exception
+# Artigo sobre eventBus - Flutter
 
 ## O que é o EventBus?
 
@@ -6,3 +6,6 @@ O EventBus é uma biblioteca que facilita a comunicação assíncrona entre dife
 
 Com isso, surgiu a ideia de usar o EventBus para emitir logs para servidores externos por meio de uma exception específica!
 
+Caso você tenha vindo diretamente do GIT, segue abaixo  o link do artivo
+
+https://dev.to/brasizza/enviando-logs-de-exception-pelo-event-bus-discord-e-slack-23h4
